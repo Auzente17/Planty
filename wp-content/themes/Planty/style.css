@@ -8,3 +8,11 @@ Author:             OceanWP
 Author URI:         https://oceanwp.org/about-oceanwp/
 Theme URI:          https://oceanwp.org/
 */
+
+.menu-item-commander a {
+  background-color: #dc9f96;
+  color: #000000;
+}
+.menu-item-commander a:hover {
+  color: #ffffff;
+}
